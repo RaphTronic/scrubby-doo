@@ -8,7 +8,7 @@ The heater versions for the P1 and P2 series also include a heating element to h
 
 All the printing and assembly details can be found in this post: https://raphtronic.blogspot.com/2026/02/diy-scrubby-doo-recirculating-carbon.html
 
-Happy, clean and rose smelly printing to all ! 
+Happy, clean and odorless printing to all ! 
 
 ![20260211_163335 recirculating filter logo](https://github.com/user-attachments/assets/b2880c79-5213-4037-9def-41a30d79a0fb)
 
