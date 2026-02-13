@@ -17,3 +17,5 @@ Happy, clean and odorless printing to all !
 ![20260211_163434 x2048](https://github.com/user-attachments/assets/68451524-f0af-470e-a76f-9cad0199be66)
 
 ![20260211_163251 x2048](https://github.com/user-attachments/assets/155a1096-bd53-4f20-bd43-9145c06e80cb)
+
+![slicer](https://github.com/user-attachments/assets/ecff0731-5b56-42b9-a963-936d4f28d368)
