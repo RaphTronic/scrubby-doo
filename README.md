@@ -4,7 +4,7 @@ These recirculating air scrubbing hats for the Bambu H2, P1 (coming) and P2 (com
 
 They also prevent deposition of a film of material inside the printer when using ABS and ASA filaments.
 
-The heater versions for the P1 and P2 series also include a heating element to heat the chamber up to 55-60°C for high temp filaments.
+Now working on a P1 and a P2 version, with option for a beefy heater so we can finally heat up their chamber fast to 55-60°C for high temp filaments without warping.
 
 All the printing and assembly details can be found in this post: https://raphtronic.blogspot.com/2026/02/diy-scrubby-doo-recirculating-carbon.html
 
