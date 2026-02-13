@@ -1,6 +1,6 @@
-# Scrubby-Doo: a high-powered recirculating air scrubbing hat for Bambu printers
+# Scrubby-Doo: a highly effective Recirculating Air Scrubbing Hat for Bambu 3D printers
 
-These recirculating air scrubbing hats for the Bambu P1, P2 and H2 series hold ~1kg of activated carbon to scrub the fumes emitted by printing.
+These recirculating air scrubbing hats for the Bambu H2, P1 (coming) and P2 (coming) series hold ~1kg of activated carbon to very effectively scrub the fumes emitted by 3D printing.
 
 They also prevent deposition of a film of material inside the printer when using ABS and ASA filaments.
 
