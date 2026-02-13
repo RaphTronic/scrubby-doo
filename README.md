@@ -6,7 +6,7 @@ They also prevent deposition of a film of material inside the printer when using
 
 The heater versions for the P1 and P2 series also include a heating element to heat the chamber up to 55-60°C for high temp filaments.
 
-All the printing and assembly details can be found in this post:
+All the printing and assembly details can be found in this post: https://raphtronic.blogspot.com/2026/02/diy-scrubby-doo-recirculating-carbon.html
 
 Happy, clean and rose smelly printing to all ! 
 
