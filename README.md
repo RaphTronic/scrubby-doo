@@ -1,4 +1,4 @@
-# scrubby-doo: a high-powered recirculating air scrubbing hat for Bambu printers
+# Scrubby-Doo: a high-powered recirculating air scrubbing hat for Bambu printers
 
 These recirculating air scrubbing hats for the Bambu P1, P2 and H2 series hold ~1kg of activated carbon to scrub the fumes emitted by printing.
 
