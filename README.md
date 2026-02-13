@@ -2,7 +2,7 @@
 
 These recirculating air scrubbing hats for the Bambu H2, P1 (coming) and P2 (coming) series hold ~1kg of activated carbon to very effectively scrub the fumes emitted by 3D printing.
 
-They also prevent deposition of a film of material inside the printer when using ABS and ASA filaments.
+They also prevent the pesky deposition of a film of material inside the printer when using ABS and ASA filaments.
 
 Now working on a P1 and a P2 version, with option for a beefy heater so we can finally heat up their chamber fast to 55-60°C for high temp filaments without warping.
 
