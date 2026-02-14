@@ -10,7 +10,7 @@ The printing and assembly details can be found in this post: https://raphtronic.
 
 Happy, clean and odorless printing to all ! 
 
-![20260211_163335 recirculating filter logo](https://github.com/user-attachments/assets/b2880c79-5213-4037-9def-41a30d79a0fb)
+![20260211_163335 recirculating filter logo 2](https://github.com/user-attachments/assets/8bc5bde8-578f-46b2-8465-35a45972537a)
 
 ![20260211_162913 layout x2048](https://github.com/user-attachments/assets/94b09a00-495a-45fa-9fc1-ec592f64f243)
 
