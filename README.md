@@ -6,8 +6,8 @@ They also prevent the pesky deposition of a film of material inside the printer 
 
 Now working on a P1 and a P2 version, with options for a beefy heater so we can finally heat up their chamber fast to 55-60°C to avoid warping with high temp filaments.
 
-The printing and assembly details can be found in the following posts.
-H2 - https://raphtronic.blogspot.com/2026/02/diy-scrubby-doo-recirculating-carbon.html
+The printing and assembly details can be found in the following posts. <br />
+H2 - https://raphtronic.blogspot.com/2026/02/diy-scrubby-doo-recirculating-carbon.html <br />
 P1, X1, P2 - (coming)
 
 Happy, clean and odorless printing to all ! 
