@@ -8,6 +8,7 @@ Now working on a P1 and a P2 version, with options for a beefy heater so we can 
 
 The printing and assembly details can be found in these posts:
 H2 - https://raphtronic.blogspot.com/2026/02/diy-scrubby-doo-recirculating-carbon.html
+
 P1, X1, P2 - (coming)
 
 Happy, clean and odorless printing to all ! 
